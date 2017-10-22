@@ -1,0 +1,12 @@
+[
+	{
+	    "id" : "getfilepathforgitcommit",
+	    "caption" : "Filepath For Git Commit",
+	    "command" : "getfilepathforgitcommit"
+	},
+	{
+	    "id" : "Copyfilename",
+	    "caption" : "Copy Filename",
+	    "command" : "copyfilename"
+	}
+]
